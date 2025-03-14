@@ -26403,7 +26403,23 @@
         "is_visible": true,
         "sponsorship": "Other"
     },
-        {
+    {
+        "source": "Simplify",
+        "company_name": "WeeRid2",
+        "id": "694040e9-673d-400c-9fed7-0d9b222403bc",
+        "title": "Software Engineer \u2013 New Grads 2024 - Planning & Control",
+        "active": false,
+        "date_updated": 1714605534,
+        "date_posted": 1714605534,
+        "url": "https://jobs.lever.co/weride/a102c558-c365-48cf-b1ae-766037509e5c/apply",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/WeRide",
+        "is_visible": true,
+        "sponsorship": "Other"
+    }, 
+    {
         "source": "Simplify",
         "company_name": "WeeRid2",
         "id": "694040e9-673d-400c-9fed7-0d9b222403bc",
